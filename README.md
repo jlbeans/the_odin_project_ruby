@@ -1,3 +1,6 @@
+This project was completed for The Odin Project.<br>
+Live Demo: http://jlbeans.github.io/Etch-a-Sketch
+
 # Etch-a-Sketch <br>
 What I learned:<br>
 -How to use CSS grid and CSS flexbox.<br>
