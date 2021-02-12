@@ -1,1 +1,1 @@
-~Exercises completed for The Odin Project~
+##Exercises were completed for The Odin Project
